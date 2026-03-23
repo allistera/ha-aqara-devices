@@ -8,7 +8,7 @@
 
 ## Installation
 
-### HACS installation
+### HACS installationffffff
 
 To install this integration via [HACS](https://hacs.xyz/):
 
